@@ -3,7 +3,7 @@
 /* Set the base font and background color for the entire app */
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: green;
+  background-color: #ecf0f3;
 }
 
 /* Center align the content in the container */
@@ -18,7 +18,7 @@ body {
 /* Style the input and button for the YouTube URL */
 input[type="text"] {
   padding: 0.8rem;
-  border: 10px solid #6c757d;
+  border: 2px solid #6c757d;
   border-radius: 6px;
   width: 100%;
 }
