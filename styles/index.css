@@ -3,7 +3,7 @@
 /* Set the base font and background color for the entire app */
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #ecf0f3;
+  background-color: green;
 }
 
 /* Center align the content in the container */
