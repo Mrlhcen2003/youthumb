@@ -18,7 +18,7 @@ body {
 /* Style the input and button for the YouTube URL */
 input[type="text"] {
   padding: 0.8rem;
-  border: 2px solid #6c757d;
+  border: 10px solid #6c757d;
   border-radius: 6px;
   width: 100%;
 }
